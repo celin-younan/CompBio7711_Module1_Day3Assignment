@@ -11,4 +11,7 @@ of the dataset by inserting your file into the correct file path in the first ch
 dataset.
 
 ## Results
-The results of this project is a subnetwork of FA genes in a 3-colmn format as well as a text file that includes non FA genes with the asssociated number of times they are connected with FA genes.
+The results of this project is a subnetwork  of FA genes in a 3-colmn format as well as a text file that includes non FA genes with the asssociated number of times they are connected with FA genes.
+
+Link to report: 
+https://docs.google.com/document/d/1DI5tHVXwiVpYX9j1YUlcf5wCZC8eeyZlhPCcYZlaeTs/edit?usp=sharing
